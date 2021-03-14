@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+.icon{
+    height: 20px;
+    padding-right: 10px;
+}
+
+.notif{
+    background-color: #D4E9E2;
+    color: #1E3932;
+}
+
+.notif-p a{
+    color: #1E3932;
+    text-decoration: underline;
+}
+
+.notif a:hover{
+    color: #1E3932;
+    text-decoration: none;
+}
+
+.reward{
+    background-color: #1E3932;
+}
