@@ -25,3 +25,13 @@
 .reward{
     background-color: #1E3932;
 }
+
+.coco{
+    background-color: #F2F0EB;
+    color: #1E3932;
+}
+
+.coco .cocobtn{
+    color: #1E3932;
+    border-color: #1E3932;
+}
