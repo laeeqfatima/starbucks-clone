@@ -35,3 +35,27 @@
     color: #1E3932;
     border-color: #1E3932;
 }
+
+.flavor{
+    background-color: #F2F0EB;
+    color: #1E3932;
+}
+
+.flavor .flavorbtn{
+    color: #1E3932;
+    border-color: #1E3932;
+}
+
+.pickup{
+    background-color: #D4E9E2;
+    color: #1E3932;
+}
+
+.pickup .pickupbtn{
+    color: #1E3932;
+    border-color: #1E3932;
+}
+
+.visa{
+    background-color: #D4E9E2;
+}
