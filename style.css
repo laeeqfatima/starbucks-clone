@@ -59,3 +59,19 @@
 .visa{
     background-color: #D4E9E2;
 }
+
+.link{
+    color: black;
+    text-decoration: underline;
+}
+
+.link:hover{
+    text-decoration: none;
+}
+
+hr{
+    border: none;
+    background-color: grey;
+    color: grey;
+    height: 2px;
+}
