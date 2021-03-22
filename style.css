@@ -75,3 +75,20 @@ hr{
     color: grey;
     height: 2px;
 }
+
+.links h6{
+    color: #0000008F;
+}
+
+
+@media (min-width: 992px) {
+    .largesc{
+        display: none;    
+    }
+ }
+
+@media (max-width: 991px) {
+    .smallsc{
+        display: none;
+    }
+}
