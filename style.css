@@ -80,6 +80,10 @@ hr{
     color: #0000008F;
 }
 
+footer{
+    color: #0000008F;
+}
+
 
 @media (min-width: 992px) {
     .largesc{
